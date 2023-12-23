@@ -1,0 +1,20 @@
+Czym jest sztuczna inteligencja
+
+Sztuczna inteligencja jest tematem obszernym i szeroko omawianym zarówno w sferze naukowej, 
+publicystycznej, jak i politycznej. Są to działania oparte o modelowanie wiedzy, 
+danych i rozwijanie systemów algorytmów oraz mocy obliczeniowych, co w obecnym stanie techniki pozwala 
+na uzyskanie względnie zautomatyzowanego systemu pozyskiwania, przetwarzania i analizy danych, 
+który daje możliwość samoistnego (autonomicznego) ulepszania systemu lub przewidywania zachowań i działań 
+na podstawie analizy zebranych danych i korelacji między nimi, z możliwością wpływu na środowisko zewnętrzne oraz 
+pozostające z nim w interakcji za pomocą sensorów i siłowników. Interakcje te mogą zachodzić mechanicznie lub z 
+udziałem człowieka w cyklu życia sztucznej inteligencji począwszy od etapu kreacji, rozwoju, wdrożenia, 
+stosowania, aż po etap decyzji o wyłączeniu z pracy i utylizacji.
+
+Warto jednak zaznaczyć, że nie wypracowano prawnej definicji sztucznej inteligencji w ustawodawstwach 
+krajowych i konwencjach międzynarodowych. Podejmowane są próby opisowego podejścia i tak w Polityce dla rozwoju 
+sztucznej inteligencji w Polsce od roku 2020 (Polityka AI) autorzy powołują się na definicję:
+
+Sztuczną inteligencję (ang. Artificial Intelligence – AI) próbuje się definiować jako dziedzinę wiedzy 
+obejmującą m.in. sieci neuronowe, robotykę i tworzenie modeli zachowań inteligentnych oraz programów 
+komputerowych symulujących te zachowania, włączając w to również uczenie maszynowe (ang. machine learning), 
+głębokie uczenie (ang. deep learning) oraz uczenie wzmocnione (ang. reinforcement learning).
